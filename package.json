@@ -1,0 +1,12 @@
+{
+  "name": "feaf",
+  "version": "0.0.1",
+  "description": "This is a compiler for FEAF. It is packaged for Javascript.",
+  "main": "Components/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zoozoo",
+  "license": "ISC",
+  "type": "module"
+}
