@@ -39,10 +39,21 @@ To install and start using this build, follow these simple steps:
     ```bash
     mkdir <New Project Name>
     cd <New Project Name>/
-    npm init -y
-    npm install --save <path to Feaf Repo>
-    
+    npm install <path to Feaf Repo> --save 
     ```
+    
+3. Now Fire up FEAF CLI
+
+   For Windows
+   ```bash
+   & ".\node_modules\feaf\CLI\Windows\feafcli.ps1"
+   ```
+   For Linux & Mac OS
+   ```bash
+   chmod +x node_modules/feaf/CLI/Nix/feafcli.sh
+   sh node_modules/feaf/CLI/Nix/feafcli.sh
+   ```
+   
     
 
 ### For detailed information on FEAF's syntax, visit [Documentation](https://www.notion.so/FEAF-Documentation-17b2cd0148494416b2b38868bdff0ee7?pvs=21).
