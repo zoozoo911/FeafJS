@@ -31,7 +31,7 @@ To install and start using this build, follow these simple steps:
 1. Clone the repository to your local machine:
     
     ```bash
-    git clone https://github.com/your-username/feaf.git
+    git clone https://github.com/zoozoo911/FeafJS.git
     ```
     
 2. In a separate Folder,
