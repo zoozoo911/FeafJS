@@ -1,15 +1,23 @@
-# FEAF
+# FEAF Readme
+
+
+ ## WARNING
+This is an experimental project and is in development, so existing feature syntax might be changed drastically in incremental updates. 
+Proper Error handling for syntax has not yet been implemented as of yet. Until it is done fully, if wrong syntax is followed or any function called with wrong or missing parameters, it will not give you expected results and might crash.
+
 
 Welcome to FEAF, the Framework to End All Frameworks! This is a revolutionary open-source JavaScript UI Framework designed to simplify and streamline the frontend development process. Say goodbye to the hassle of dealing with multiple libraries, complex CSS, and the challenges of maintaining large-scale projects.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Getting Started](#getting-started)
-    - [Installation](#installation)
-- [Features](#features)
-- [Contributing](#contributing)
-- [Community and Support](#community-and-support)
+- [Introduction](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#introduction)
+- [Getting Started](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#getting-started)
+    - [Installation](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#installation)
+    - [Usage](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#usage)
+- [Features](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#features)
+- [Contributing](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#contributing)
+- [Community and Support](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#community-and-support)
+- [License](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#license)
 
 ## Introduction
 
@@ -31,7 +39,7 @@ To install and start using this build, follow these simple steps:
 1. Clone the repository to your local machine:
     
     ```bash
-    git clone https://github.com/zoozoo911/FeafJS.git
+    git clone https://github.com/your-username/feaf.git
     ```
     
 2. In a separate Folder,
@@ -39,21 +47,10 @@ To install and start using this build, follow these simple steps:
     ```bash
     mkdir <New Project Name>
     cd <New Project Name>/
-    npm install <path to Feaf Repo> --save 
-    ```
+    npm init -y
+    npm install --save <path to Feaf Repo>
     
-3. Now Fire up FEAF CLI
-
-   For Windows
-   ```bash
-   & ".\node_modules\feaf\CLI\Windows\feafcli.ps1"
-   ```
-   For Linux & Mac OS
-   ```bash
-   chmod +x node_modules/feaf/CLI/Nix/feafcli.sh
-   sh node_modules/feaf/CLI/Nix/feafcli.sh
-   ```
-   
+    ```
     
 
 ### For detailed information on FEAF's syntax, visit [Documentation](https://www.notion.so/FEAF-Documentation-17b2cd0148494416b2b38868bdff0ee7?pvs=21).
