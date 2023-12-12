@@ -11,7 +11,7 @@ const Button = (params) => {
       console.log("-->", Attributes.Events.onClick(params.events.onClick));
       res += Attributes.Events.onClick(params.events.onClick);
     }
-  res += ">" + params.label + "</button";
+  res += ">" + params.label + "</button>";
   return res;
 };
 

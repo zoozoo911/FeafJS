@@ -8,5 +8,16 @@
   },
   "author": "Zoozoo",
   "license": "ISC",
-  "type": "module"
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./Components/index.js"
+    },
+    "./Renderer": {
+      "import": "./Renderer/index.js"
+    },
+    "./Designer": {
+      "import": "./Designer/index.js"
+    }
+  }
 }
