@@ -67,10 +67,7 @@ To install and start using this build, follow these simple steps:
 
 ## Contributing
 
-We welcome contributions from the community! Whether you're a seasoned developer or just getting started, your input can make FEAF even better. Check out our Contribution Guidelines to get started.
-
-## Community and Support
-
-Join the FEAF community to connect with other developers, ask questions, and share your experiences. Visit our Discussions page for community forums and support.
+Contributions from the community are always welcome! Whether you're a seasoned developer or just getting started, your input can make FEAF even better.
+You can always contact me on zehrahaldar@protonmail.com
 
 Thank you for choosing FEAF! Happy coding! 😁
