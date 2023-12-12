@@ -10,14 +10,11 @@ Welcome to FEAF, the Framework to End All Frameworks! This is a revolutionary op
 
 ## Table of Contents
 
-- [Introduction](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#introduction)
-- [Getting Started](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#getting-started)
-    - [Installation](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#installation)
-    - [Usage](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#usage)
-- [Features](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#features)
-- [Contributing](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#contributing)
-- [Community and Support](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#community-and-support)
-- [License](notion://www.notion.so/f6ca7704ae6f4175b395b78cbec485bc#license)
+- [Introduction](#introduction)
+- [Getting Started](#getting-started)
+    - [Installation](#installation)
+- [Features](#features)
+- [Contributing](#contributing)
 
 ## Introduction
 
