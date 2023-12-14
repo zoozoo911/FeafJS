@@ -48,7 +48,11 @@ To install and start using this build, follow these simple steps:
     npm install --save <path to Feaf Repo>
     
     ```
-    
+3. Add
+   ```js
+   "type": "module"
+   ```
+   To your package.json
 
 ### For detailed information on FEAF's syntax, visit [Documentation](https://www.notion.so/FEAF-Documentation-17b2cd0148494416b2b38868bdff0ee7?pvs=21).
 
