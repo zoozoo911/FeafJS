@@ -1,6 +1,3 @@
-# FEAF Readme
-
-
  ## WARNING
 This is an experimental project and is in development, so existing feature syntax might be changed drastically in incremental updates. 
 Proper Error handling for syntax has not yet been implemented as of yet. Until it is done fully, if wrong syntax is followed or any function called with wrong or missing parameters, it will not give you expected results and might crash.
